@@ -1,0 +1,7 @@
+*.tfstate*
+.terraform
+*.iml
+*.idea
+*.DS_Storenv
+.env 
+
